@@ -2,9 +2,9 @@
 
 所有题目列表
 
-| #    | Title                                                        | Java                                                  | Note                                                    | Score |
+| #    | Title                                                        | Java                                                  | Note                                                    | Tag |
 | ---- | ------------------------------------------------------------ | ---- | ---- | ---- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)||||
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution001](https://leetcode-cn.com/problems/two-sum/)|使用HashMap降低时间复杂度|Array,HashMap|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)||||
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)||||
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)||||
@@ -381,6 +381,7 @@
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)||||
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)||||
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)||||
+|832|[flipping an image](https://leetcode-cn.com/problems/flipping-an-image/)|[Solution832](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution832.java)|二维数组|Array|
 |843|[Guess the Word](https://leetcode.com/problems/guess-the-word/)||||
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)||||
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)||||
@@ -389,3 +390,4 @@
 |889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)||||
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)||||
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)||||
+|977|[squares of a sorted array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[Solution977](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution977.java)|Arrays.sort();方法递增排序|Array|

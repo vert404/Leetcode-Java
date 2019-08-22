@@ -2,6 +2,7 @@
  * @author vert  @date 2019/8/20 21:14
  */
 
+import java.util.Arrays;
 import java.util.HashMap;
 
 /**
@@ -21,7 +22,7 @@ public class Solution001 {
     public static void main(String[] args) {
         int[] n = {1,2,7,11,15};
         Solution001 s = new Solution001();
-        System.out.println("["+s.twoSum(n,9)[0]+","+s.twoSum(n,9)[1]+"]");
+        System.out.println(Arrays.toString(s.twoSum(n,9)));
     }
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> map = new HashMap<>();
