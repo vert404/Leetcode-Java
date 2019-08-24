@@ -341,7 +341,7 @@
 |449|[Serialize and Deserialize BST](https://leetcode-cn.com/problems/serialize-and-deserialize-bst)||||
 |450|[Delete Node in a BST](https://leetcode-cn.com/problems/delete-node-in-a-bst/)||||
 |451|[Sort Characters By Frequency](https://leetcode-cn.com/problems/sort-characters-by-frequency/)||||
-|459|[Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/)||||
+|459|[Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/)|[Solution459](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution459.java)|循环判定重复字符串|String|
 |477|[Total Hamming Distance](https://leetcode-cn.com/problems/total-hamming-distance/)||||
 |480|[Sliding Window Median](https://leetcode-cn.com/problems/sliding-window-median/)||||
 |482|[License Key Formatting](https://leetcode-cn.com/problems/license-key-formatting/)||||
