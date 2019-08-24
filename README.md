@@ -4,7 +4,7 @@
 
 | #    | Title                                                        | Java                                                  | Note                                                    | Tag |
 | ---- | ------------------------------------------------------------ | ---- | ---- | ---- |
-|1|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|[Solution001](https://leetcode-cn.com/problems/two-sum/)|使用HashMap降低时间复杂度|Array,HashMap|
+|1|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|[Solution001](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution001.java)|使用HashMap降低时间复杂度|Array|
 |2|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)||||
 |3|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)||||
 |4|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)||||
@@ -16,7 +16,7 @@
 |10|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/)||||
 |11|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)||||
 |12|[Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/)||||
-|13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)||||
+|13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)|[Solution013](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution013.java)|使用HashMap建立对应的映射|Sting|
 |14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)||||
 |15|[3Sum](https://leetcode-cn.com/problems/3sum/)||||
 |16|[3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/)||||
@@ -350,8 +350,10 @@
 |487|[Max Consecutive Ones II](https://leetcode-cn.com/problems/max-consecutive-ones-ii/)||||
 |501|[Find Mode in Binary Search Tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)||||
 |508|[Most Frequent Subtree Sum](https://leetcode-cn.com/problems/most-frequent-subtree-sum/submissions/)||||
+|509|[fibonacci number](https://leetcode-cn.com/problems/fibonacci-number/)|[Solution509](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution509.java)|递归，使用HashMap降低时间复杂度|Array|
 |513|[Find Bottom Left Tree Value](https://leetcode-cn.com/problems/find-bottom-left-tree-value/)||||
 |515|[Find Largest Value in Each Tree Row](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/)||||
+|520|[detect capital](https://leetcode-cn.com/problems/detect-capital/)|[Solution520](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution520.java)|三种判断|String|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/)||||
 |526|[Beautiful Arrangement](https://leetcode-cn.com/problems/beautiful-arrangement/)||||
 |535|[Encode and Decode TinyURL](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/)||||
@@ -379,6 +381,7 @@
 |687|[Longest Univalue Path](https://leetcode-cn.com/problems/longest-univalue-path/)||||
 |695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)||||
 |703|[Kth Largest Element in a Stream](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)||||
+|709|[to lower case](https://leetcode-cn.com/problems/to-lower-case/)|[Solution709](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution709.java)|转换成小写字母|String|
 |771|[Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/)||||
 |814|[Binary Tree Pruning](https://leetcode-cn.com/problems/binary-tree-pruning/)||||
 |819|[Most Common Word](https://leetcode-cn.com/problems/most-common-word/)||||
