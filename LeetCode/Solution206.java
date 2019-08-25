@@ -26,6 +26,13 @@ public class Solution206 {
      * @param head
      * @return
      */
+    /*
+    设置三个节点pre、cur、next
+    （1）每次查看cur节点是否为NULL，如果是，则结束循环，获得结果
+    （2）如果cur节点不是为NULL，则先设置临时变量next为cur的下一个节点
+    （3）让cur的下一个节点变成指向pre，而后pre移动cur，cur移动到next
+    （4）重复（1）（2）（3）
+     */
     public ListNode reverseList(ListNode head) {
         ListNode current = head,next,pre = null;//三个指针指向三个节点
         while(current != null){
