@@ -64,7 +64,7 @@
 |60|[Permutation Sequence](https://leetcode-cn.com/problems/permutation-sequence/)||||
 |61|[Rotate List](https://leetcode-cn.com/problems/rotate-list/)||||
 |66|[Plus One](https://leetcode-cn.com/problems/plus-one/)||||
-|67|[Add Binary](https://leetcode.com/problems/add-binary/)||||
+|67|[Add Binary](https://leetcode-cn.com/problems/add-binary/)|[Solution067](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution067.java)|要点：取出的两个数与进位carry，三者加起来，对2取余即为当前位的数字，对2取商即为当前进位的值|String|
 |68|[Text Justification](https://leetcode-cn.com/problems/text-justification/)||||
 |69|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)||||
 |71|[Simplify Path](https://leetcode-cn.com/problems/simplify-path/)||||
@@ -170,7 +170,7 @@
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)||||
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)||||
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)||||
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)||||
+|206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|[Solution206](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution206.java)|迭代方法|Linked List|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)||||
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)||||
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)||||
@@ -199,7 +199,7 @@
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)||||
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)||||
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)||||
-|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)||||
+|237|[Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[Solution237](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution237.java)|ListNode删除指定节点|Linked List|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)||||
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)||||
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)||||
@@ -382,7 +382,7 @@
 |695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)||||
 |703|[Kth Largest Element in a Stream](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)||||
 |709|[to lower case](https://leetcode-cn.com/problems/to-lower-case/)|[Solution709](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution709.java)|转换成小写字母|String|
-|771|[Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/)||||
+|771|[Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/)|[Solution771](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution771.java)|利用哈希思想|hash table|
 |814|[Binary Tree Pruning](https://leetcode-cn.com/problems/binary-tree-pruning/)||||
 |819|[Most Common Word](https://leetcode-cn.com/problems/most-common-word/)||||
 |832|[flipping an image](https://leetcode-cn.com/problems/flipping-an-image/)|[Solution832](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution832.java)|二维数组|Array|
@@ -395,4 +395,5 @@
 |904|[Fruit Into Baskets](https://leetcode-cn.com/problems/fruit-into-baskets/)||||
 |905|[sort array by parity](https://leetcode-cn.com/problems/sort-array-by-parity/)|[Solution905](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution905.java)|正整数&1，值为1，这个数为奇数；值为0，这个数为偶数|Array|
 |929|[Unique Email Addresses](https://leetcode-cn.com/problems/unique-email-addresses/)||||
+|938|[range sum of bst](https://leetcode-cn.com/problems/range-sum-of-bst/)|[Solution938](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution938.java)|二叉搜索树，遍历|Tree|
 |977|[squares of a sorted array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[Solution977](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution977.java)|Arrays.sort();方法递增排序|Array|
