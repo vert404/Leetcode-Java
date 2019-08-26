@@ -367,6 +367,7 @@
 |563|[Binary Tree Tilt](https://leetcode-cn.com/problems/binary-tree-tilt/)||||
 |564|[Find the Closest Palindrome](https://leetcode-cn.com/problems/find-the-closest-palindrome/)||||
 |572|[Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)||||
+|575|[distribute candies](https://leetcode-cn.com/problems/distribute-candies/)|[Solution575](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution575.java)|数组去重，糖果种类>=一半，输出一半，糖果种类<一半，输出这个数|hash table hashset|
 |606|[Construct String from Binary Tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)||||
 |617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)||||
 |621|[Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/)||||
