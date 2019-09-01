@@ -56,7 +56,7 @@
 |50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)||||
 |51|[N-Queens](https://leetcode-cn.com/problems/n-queens/)||||
 |52|[N-Queens II](https://leetcode-cn.com/problems/n-queens-ii/)||||
-|53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)||||
+|53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|[Solution053](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution053.java)|数组中元素都为负值，最大值为最大的那个负数；当元素中有正数时，最大值为那个最大的正数或这些正数附近的连续子序列之和。|Array|
 |54|[Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)||||
 |55|[Jump Game](https://leetcode-cn.com/problems/jump-game/#/description)||||
 |56|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)||||
