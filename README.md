@@ -391,6 +391,7 @@
 |844|[Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/)||||
 |849|[Maximize Distance to Closest Person](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/)||||
 |857|[Minimum Cost to Hire K Workers](https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers/)||||
+|867|[transpose matrix](https://leetcode-cn.com/problems/transpose-matrix/)|[Solution867](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution867.java)|m行n列矩阵转置后得到n行m列矩阵|Array|
 |872|[Leaf-Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees/)||||
 |889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)||||
 |904|[Fruit Into Baskets](https://leetcode-cn.com/problems/fruit-into-baskets/)||||
