@@ -63,7 +63,7 @@
 |57|[Insert Interval](https://leetcode-cn.com/problems/insert-interval/)||||
 |60|[Permutation Sequence](https://leetcode-cn.com/problems/permutation-sequence/)||||
 |61|[Rotate List](https://leetcode-cn.com/problems/rotate-list/)||||
-|66|[Plus One](https://leetcode-cn.com/problems/plus-one/)||||
+|66|[Plus One](https://leetcode-cn.com/problems/plus-one/)|[Solution066](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution066.java)|两种情况：数组里面不是全部都是9；数组里面都是9，要将数组长度加一,最高位赋值为1；|Array|
 |67|[Add Binary](https://leetcode-cn.com/problems/add-binary/)|[Solution067](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution067.java)|要点：取出的两个数与进位carry，三者加起来，对2取余即为当前位的数字，对2取商即为当前进位的值|String|
 |68|[Text Justification](https://leetcode-cn.com/problems/text-justification/)||||
 |69|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)||||
