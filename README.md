@@ -83,7 +83,7 @@
 |84|[Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)||||
 |85|[Maximal Rectangle](https://leetcode-cn.com/problems/maximal-rectangle/)||||
 |86|[Partition List](https://leetcode-cn.com/problems/partition-list/)||||
-|88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)||||
+|88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|[Solution088](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution088.java)|从下标高的开始赋值,两数组中较大的赋给nums1[p--]|Array|
 |90|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/)||||
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)||||
 |92|[Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)||||
