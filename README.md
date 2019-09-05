@@ -111,7 +111,7 @@
 |116|[Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)||||
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)||||
 |118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)|[Solution118](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution118.java)|杨辉三角，使用ArrayList，每个数是它左上方和右上方的数的和|ArrayList|
-|119|[Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/description/)||||
+|119|[Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/description/)|[Solution119](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution119.java)|返回杨辉三角的第 k 行|ArrayList|
 |121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)||||
 |122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)||||
 |123|[Best Time to Buy and Sell Stock III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)||||
