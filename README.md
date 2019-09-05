@@ -38,7 +38,7 @@
 |32|[Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/)||||
 |33|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)||||
 |34|[Search for a Range](https://leetcode-cn.com/problems/search-for-a-range/)||||
-|35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)||||
+|35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)|[Solution035](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution035.java)|已排好序，使用for循环判断|Array|
 |36|[Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/#/description)||||
 |37|[Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver/#/description)||||
 |38|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)||||
