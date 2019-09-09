@@ -34,7 +34,7 @@
 |28|[ Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)||||
 |29|[Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/)||||
 |30|[Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)||||
-|31|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)||||
+|31|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)|[Solution031](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution031.java)|实现获取下一个更大的排列的函数|Array|
 |32|[Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/)||||
 |33|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)||||
 |34|[Search for a Range](https://leetcode-cn.com/problems/search-for-a-range/)||||
