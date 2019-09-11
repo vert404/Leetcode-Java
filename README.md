@@ -153,7 +153,7 @@
 |162|[Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/)||||
 |163|[Missing Ranges](https://leetcode-cn.com/problems/missing-ranges/)||||
 |164|[Maximum Gap](https://leetcode-cn.com/problems/maximum-gap/)||||
-|167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)||||
+|167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution167](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution167.java)|一前一后双指针|Array|
 |168|[Excel Sheet Column Title](https://leetcode-cn.com/problems/excel-sheet-column-title/)||||
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)||||
 |170|[Two Sum III - Data structure design](https://leetcode-cn.com/problems/two-sum-iii-data-structure-design/)||||
