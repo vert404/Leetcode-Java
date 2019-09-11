@@ -240,7 +240,7 @@
 |280|[Wiggle Sort](https://leetcode-cn.com/problems/wiggle-sort/)||||
 |281|[Zigzag Iterator](https://leetcode-cn.com/problems/zigzag-iterator/)||||
 |282|[Expression Add Operators](https://leetcode-cn.com/problems/expression-add-operators/)||||
-|283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)||||
+|283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)|[Solution268](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution268.java)|看作两个数组，一个保存非0元素，一个保存0元素|Array|
 |284|[Peeking Iterator](https://leetcode-cn.com/problems/peeking-iterator/)||||
 |285|[Inorder Successor in BST](https://leetcode-cn.com/problems/inorder-successor-in-bst/)||||
 |286|[Walls and Gates](https://leetcode-cn.com/problems/walls-and-gates/)||||
