@@ -226,7 +226,7 @@
 |265|[Paint House II](https://leetcode-cn.com/problems/paint-house-ii)||||
 |266|[Palindrome Permutation](https://leetcode-cn.com/problems/palindrome-permutation/)||||
 |267|[Palindrome Permutation II](https://leetcode-cn.com/problems/palindrome-permutation-ii/)||||
-|268|[Missing Number](https://leetcode-cn.com/problems/missing-number)||||
+|268|[Missing Number](https://leetcode-cn.com/problems/missing-number)|[Solution268](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution268.java)|使用^异或,得到缺少的元素|Array|
 |269|[Alien Dictionary](https://leetcode-cn.com/problems/alien-dictionary/)||||
 |270|[Closest Binary Search Tree Value](https://leetcode-cn.com/problems/closest-binary-search-tree-value/)||||
 |271|[Encode and Decode Strings](https://leetcode-cn.com/problems/encode-and-decode-strings/)||||
