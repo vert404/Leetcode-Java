@@ -328,7 +328,7 @@
 |409|[Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/)||||
 |410|[Split Array Largest Sum](https://leetcode-cn.com/problems/split-array-largest-sum)||||
 |412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/)||||
-|413|[Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/)||||
+|414|[third maximum number](https://leetcode-cn.com/problems/third-maximum-number/)|[Solution414](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution414.java)|依次更新第一大数，第二大数，第三大数|Array|
 |418|[Sentence Screen Fitting](https://leetcode-cn.com/problems/sentence-screen-fitting/)||||
 |422|[Valid Word Square](https://leetcode-cn.com/problems/valid-word-square/)||||
 |425|[Word Squares](https://leetcode-cn.com/problems/word-squares/)||||
