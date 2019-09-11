@@ -181,9 +181,9 @@
 |214|[Shortest Palindrome](https://leetcode-cn.com/problems/shortest-palindrome/)||||
 |215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)||||
 |216|[Combination Sum III](https://leetcode-cn.com/problems/combination-sum-iii/)||||
-|217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/)|[Solution217](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution217.java)|使用堆排序方法，时间复杂度为O(nlogn)；使用HashSet，时间复杂度为 O(n)。|Array|
+|217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/)|[Solution217](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution217.java)|使用堆排序方法，时间复杂度为O(nlogn)；使用HashSet，时间复杂度为 O(n)。|Array,HashSet|
 |218|[The Skyline Problem](https://leetcode-cn.com/problems/the-skyline-problem/)||||
-|219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)||||
+|219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[Solution219](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution219.java)|HashMap方法;HashSet方法|HashMap|
 |220|[Contains Duplicate III](https://leetcode-cn.com/problems/contains-duplicate-iii/)||||
 |221|[Maximal Square](https://leetcode-cn.com/problems/maximal-square/)||||
 |222|[Count Complete Tree Nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes/)||||
