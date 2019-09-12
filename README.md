@@ -356,6 +356,7 @@
 |520|[detect capital](https://leetcode-cn.com/problems/detect-capital/)|[Solution520](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution520.java)|三种判断|String|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/)||||
 |526|[Beautiful Arrangement](https://leetcode-cn.com/problems/beautiful-arrangement/)||||
+|532|[k-diff pairs in an array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/)|[Solution532](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution532.java)|建立每个数字和其出现次数之间的映射|HashMap|
 |535|[Encode and Decode TinyURL](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/)||||
 |538|[Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)||||
 |541|[Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/)||||
