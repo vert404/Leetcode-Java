@@ -346,7 +346,7 @@
 |480|[Sliding Window Median](https://leetcode-cn.com/problems/sliding-window-median/)||||
 |482|[License Key Formatting](https://leetcode-cn.com/problems/license-key-formatting/)||||
 |483|[Smallest Good Base](https://leetcode-cn.com/problems/smallest-good-base/)||||
-|485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)||||
+|485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|[Solution485](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution485.java)|count记录连续1的个数，max保存最大的个数|Array|
 |487|[Max Consecutive Ones II](https://leetcode-cn.com/problems/max-consecutive-ones-ii/)||||
 |501|[Find Mode in Binary Search Tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)||||
 |508|[Most Frequent Subtree Sum](https://leetcode-cn.com/problems/most-frequent-subtree-sum/submissions/)||||
