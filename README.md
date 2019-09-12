@@ -370,6 +370,7 @@
 |566|[reshape the matrix](https://leetcode-cn.com/problems/reshape-the-matrix/)|[Solution566](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution566.java)|在逐行顺序迭代给定矩阵的同时，直接将数字放在结果矩阵中|Array|
 |572|[Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)||||
 |575|[distribute candies](https://leetcode-cn.com/problems/distribute-candies/)|[Solution575](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution575.java)|数组去重，糖果种类>=一半，输出一半，糖果种类<一半，输出这个数|hash table hashset|
+|581|[shortest unsorted continuous subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/comments/)|[Solution581](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution581.java)|双指针左右进行判断|Array|
 |606|[Construct String from Binary Tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)||||
 |617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)||||
 |621|[Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/)||||
