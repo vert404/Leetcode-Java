@@ -367,6 +367,7 @@
 |561|[array partition i](https://leetcode-cn.com/problems/array-partition-i/)|[Solution561](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution561.java)|取数组下标偶数位相加总和就是最小值|Array|
 |563|[Binary Tree Tilt](https://leetcode-cn.com/problems/binary-tree-tilt/)||||
 |564|[Find the Closest Palindrome](https://leetcode-cn.com/problems/find-the-closest-palindrome/)||||
+|566|[reshape the matrix](https://leetcode-cn.com/problems/reshape-the-matrix/)|[Solution566](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution566.java)|在逐行顺序迭代给定矩阵的同时，直接将数字放在结果矩阵中|Array|
 |572|[Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)||||
 |575|[distribute candies](https://leetcode-cn.com/problems/distribute-candies/)|[Solution575](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution575.java)|数组去重，糖果种类>=一半，输出一半，糖果种类<一半，输出这个数|hash table hashset|
 |606|[Construct String from Binary Tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)||||
