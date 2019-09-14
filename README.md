@@ -377,6 +377,7 @@
 |621|[Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/)||||
 |628|[maximum product of three numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|[Solution628](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution628.java)|排序，取最后面三个数乘积和最前面两个负数与最后一个正数乘积中最大的|Array|
 |637|[Average of Levels in Binary Tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/#/description)||||
+|643|[maximum average subarray i](https://leetcode-cn.com/problems/maximum-average-subarray-i/)|[Solution643](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution643.java)|窗口整体前进一位，temp始终记录当前窗口内值的和|Array|
 |652|[Find Duplicate Subtrees](https://leetcode-cn.com/problems/find-duplicate-subtrees/)||||
 |653|[Two Sum IV - Input is a BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/)||||
 |654|[Maximum Binary Tree](https://leetcode-cn.com/problems/maximum-binary-tree/description/)||||
