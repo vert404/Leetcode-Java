@@ -375,6 +375,7 @@
 |606|[Construct String from Binary Tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)||||
 |617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)||||
 |621|[Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/)||||
+|628|[maximum product of three numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|[Solution628](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution628.java)|排序，取最后面三个数乘积和最前面两个负数与最后一个正数乘积中最大的|Array|
 |637|[Average of Levels in Binary Tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/#/description)||||
 |652|[Find Duplicate Subtrees](https://leetcode-cn.com/problems/find-duplicate-subtrees/)||||
 |653|[Two Sum IV - Input is a BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/)||||
