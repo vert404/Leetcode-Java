@@ -23,7 +23,7 @@
 |17|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)||||
 |18|[4Sum](https://leetcode-cn.com/problems/4sum/)||||
 |19|[Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)||||
-|20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)||||
+|20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|[Solution020](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution020.java)|使用堆栈|String,Stack|
 |21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)||||
 |22|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)||||
 |23|[Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)||||
