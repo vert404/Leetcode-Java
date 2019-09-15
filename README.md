@@ -41,7 +41,7 @@
 |35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)|[Solution035](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution035.java)|已排好序，使用for循环判断|Array|
 |36|[Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/#/description)||||
 |37|[Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver/#/description)||||
-|38|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)||||
+|38|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)|[Solution038](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution038.java)|使用一个String数组，一个StringBuilder，进行判断|String|
 |39|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/)||||
 |40|[Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/)||||
 |41|[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/#/description)||||
