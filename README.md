@@ -17,7 +17,7 @@
 |11|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)||||
 |12|[Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/)||||
 |13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)|[Solution013](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution013.java)|使用HashMap建立对应的映射|Sting|
-|14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)||||
+|14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|[Solution014](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution014.java)|使用双层for循环|String|
 |15|[3Sum](https://leetcode-cn.com/problems/3sum/)||||
 |16|[3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/)||||
 |17|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)||||
