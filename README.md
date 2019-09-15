@@ -31,7 +31,7 @@
 |25|[Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)||||
 |26|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[Solution026](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution026.java)|双指针，已排好序，后面找到的元素只需判断与所求数组(重新排序)的最后一个不相等,就可以进行赋值了|Array|
 |27|[Remove Element](https://leetcode-cn.com/problems/remove-element/)|[Solution027](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution027.java)|双指针,保留两个指针 i和 j，其中 i是慢指针，j是快指针|Array|
-|28|[ Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)||||
+|28|[ Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[Solution028](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution028.java)|两层for循环暴力解法|String|
 |29|[Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/)||||
 |30|[Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)||||
 |31|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)|[Solution031](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution031.java)|实现获取下一个更大的排列的函数|Array|
