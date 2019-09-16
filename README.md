@@ -24,7 +24,7 @@
 |18|[4Sum](https://leetcode-cn.com/problems/4sum/)||||
 |19|[Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)||||
 |20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|[Solution020](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution020.java)|使用堆栈|String,Stack|
-|21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)||||
+|21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[Solution021](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution021.java)|合并两个有序链表|ListNode|
 |22|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)||||
 |23|[Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)||||
 |24|[Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)||||
