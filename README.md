@@ -288,10 +288,10 @@
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters/)||||
 |341|[Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)||||
 |344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/)||||
-|345|[Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)||||
+|345|[Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)|[Solution345](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution345.java)|||
 |346|[Moving Average from Data Stream](https://leetcode-cn.com/problems/moving-average-from-data-stream/)||||
 |347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)||||
-|349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)||||
+|349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|[Solution349](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution349.java)|两个数组转换为集合 set，然后迭代较小的集合检查是否存在在较大集合中|HashSet,sort|
 |350|[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)||||
 |351|[Android Unlock Patterns](https://leetcode-cn.com/problems/android-unlock-patterns/)||||
 |357|[Count Numbers with Unique Digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/)||||
