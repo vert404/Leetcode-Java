@@ -93,7 +93,7 @@
 |96|[Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)||||
 |98|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)||||
 |99|[Recover Binary Search Tree](https://leetcode-cn.com/problems/recover-binary-search-tree/)||||
-|100|[Same Tree](https://leetcode-cn.com/problems/same-tree/)||||
+|100|[Same Tree](https://leetcode-cn.com/problems/same-tree/)|[Solution100](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution100.java)|递归，当所有对应的子节点都相等时返回true|Tree|
 |101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)||||
 |102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)||||
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)||||
