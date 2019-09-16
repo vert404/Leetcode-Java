@@ -204,7 +204,7 @@
 |239|[Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/)||||
 |240|[Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)||||
 |241|[Different Ways to Add Parentheses](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/)||||
-|242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/)||||
+|242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/)|[Solution242](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution242.java)|使用简单的 26 位计数器表| String,sort        |
 |243|[Shortest Word Distance](https://leetcode-cn.com/problems/shortest-word-distance/)||||
 |244|[Shortest Word Distance II](https://leetcode-cn.com/problems/shortest-word-distance-ii/)||||
 |245|[Shortest Word Distance III](https://leetcode-cn.com/problems/shortest-word-distance-iii/)||||
