@@ -10,7 +10,7 @@
 |4|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)||||
 |5|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)||||
 |6|[ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/)||||
-|7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)||||
+|7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)|[Solution007](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution007.java)|使用公式temp = res*10 + x%10实现整数反转| Math               |
 |8|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)||||
 |9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)||||
 |10|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/)||||
