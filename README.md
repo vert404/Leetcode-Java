@@ -292,7 +292,7 @@
 |346|[Moving Average from Data Stream](https://leetcode-cn.com/problems/moving-average-from-data-stream/)||||
 |347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)||||
 |349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|[Solution349](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution349.java)|两个数组转换为集合 set，然后迭代较小的集合检查是否存在在较大集合中|HashSet,sort|
-|350|[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)||||
+|350|[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[Solution350](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution350.java)|排序之后再进行比较|Array,sort|
 |351|[Android Unlock Patterns](https://leetcode-cn.com/problems/android-unlock-patterns/)||||
 |357|[Count Numbers with Unique Digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/)||||
 |358|[Rearrange String k Distance Apart](https://leetcode-cn.com/problems/rearrange-string-k-distance-apart/)||||
