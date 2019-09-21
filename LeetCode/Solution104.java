@@ -27,12 +27,13 @@ public class Solution104 {
     }
 
     public int maxDepth(TreeNode root) {
-        if (root == null) {
+        if (root == null){  //遇到空结点，返回0
             return 0;
-        } else {
-            int left_height = maxDepth(root.left);
-            int right_height = maxDepth(root.right);
-            return java.lang.Math.max(left_height, right_height) + 1;
+        }else{
+            int left_height = maxDepth(root.left);  //进入左子结点
+            int right_height = maxDepth(root.right);    //进入右子结点
+            //一直递归到叶子结点，比较左右谁的深度大
+            return java.lang.Math.max(left_height,right_height) + 1;    //从叶子结点向根结点累加
         }
     }
 }
