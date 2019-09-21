@@ -97,7 +97,7 @@
 |101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)|[Solution101](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution101.java)|递归，左右镜像的当前结点和子结点值相同|Tree|
 |102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)||||
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)||||
-|104|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)||||
+|104|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|[Solution104](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution104.java)|递归，使用DFS（深度优先搜索）策略|Tree|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)||||
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)||||
 |107|[Binary Tree Level Order Traversal II](https://leetcode-cn-cn.com/problems/binary-tree-level-order-traversal-ii/)||||
