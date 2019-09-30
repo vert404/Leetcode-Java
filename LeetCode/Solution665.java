@@ -26,6 +26,10 @@ public class Solution665 {
             return true;
         }
         int count = 0;
+        if (nums[0] > nums[1]) {
+            nums[0] = nums[1];
+            count++;
+        }
         for (int i=1;i<nums.length-1;i++){
             if (nums[i] > nums[i+1]){
                 count++;
