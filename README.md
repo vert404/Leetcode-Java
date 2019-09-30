@@ -382,6 +382,7 @@
 |653|[Two Sum IV - Input is a BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/)||||
 |654|[Maximum Binary Tree](https://leetcode-cn.com/problems/maximum-binary-tree/description/)||||
 |661|[image smoother](https://leetcode-cn.com/problems/image-smoother/)|[Solution661](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution661.java)|八个方向求平均|Array|
+|665|[non decreasing array](https://leetcode-cn.com/problems/non-decreasing-array)|[Solution665](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution665.java)|如果左边小，则把a[i] 变小；如果右边小，则把a[i+1] 变大|Array|
 |669|[Trim a Binary Search Tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)||||
 |681|[Next Closest Time](https://leetcode-cn.com/problems/next-closest-time/)||||
 |683|[K Empty Slots](https://leetcode-cn.com/problems/k-empty-slots/)||||
