@@ -61,6 +61,7 @@
 |55|[Jump Game](https://leetcode-cn.com/problems/jump-game/#/description)||||
 |56|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)||||
 |57|[Insert Interval](https://leetcode-cn.com/problems/insert-interval/)||||
+|58|[length of last word](https://leetcode-cn.com/problems/length-of-last-word)|[Solution058](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution058.java)|从后往前遍历|String|
 |60|[Permutation Sequence](https://leetcode-cn.com/problems/permutation-sequence/)||||
 |61|[Rotate List](https://leetcode-cn.com/problems/rotate-list/)||||
 |66|[Plus One](https://leetcode-cn.com/problems/plus-one/)|[Solution066](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution066.java)|两种情况：数组里面不是全部都是9；数组里面都是9，要将数组长度加一,最高位赋值为1；|Array|
