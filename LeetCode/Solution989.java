@@ -5,6 +5,7 @@ import java.util.List;
  */
 public class Solution989 {
     public List<Integer> addToArrayForm(int[] A, int K) {
+		int a;
         return null;
     }
 }
