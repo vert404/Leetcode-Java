@@ -408,3 +408,4 @@
 |929|[Unique Email Addresses](https://leetcode-cn.com/problems/unique-email-addresses/)||||
 |938|[range sum of bst](https://leetcode-cn.com/problems/range-sum-of-bst/)|[Solution938](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution938.java)|二叉搜索树，遍历|Tree|
 |977|[squares of a sorted array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[Solution977](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution977.java)|Arrays.sort();方法递增排序|Array|
+|989|[add to array form of integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|[Solution989](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution989.java)|每次去掉末位|Array|
