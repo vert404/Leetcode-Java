@@ -392,6 +392,7 @@
 |695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)||||
 |703|[Kth Largest Element in a Stream](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)||||
 |709|[to lower case](https://leetcode-cn.com/problems/to-lower-case/)|[Solution709](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution709.java)|转换成小写字母|String|
+|717|[1 bit and 2 bit characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters)|[Solution717](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution717.java)|只与最后一个元素0的前面的连续1的个数有关系|Array|
 |771|[Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/)|[Solution771](https://github.com/vert404/Leetcode-Java/blob/master/LeetCode/Solution771.java)|利用哈希思想|hash table|
 |814|[Binary Tree Pruning](https://leetcode-cn.com/problems/binary-tree-pruning/)||||
 |819|[Most Common Word](https://leetcode-cn.com/problems/most-common-word/)||||
