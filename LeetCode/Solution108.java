@@ -20,11 +20,26 @@ public class Solution108 {
         int val;
         TreeNode left;
         TreeNode right;
+
         TreeNode(int x) {
             val = x;
         }
     }
+
     public TreeNode sortedArrayToBST(int[] nums) {
-        return null;
+        // 左右等分建立左右子树，中间节点作为子树根节点，递归该过程
+        return nums == null ? null : buildTree(nums, 0, nums.length - 1);
+    }
+
+    private TreeNode buildTree(int[] nums, int l, int r) {
+        if (l > r) {
+            return null;
+        }
+        //中间结点，使用该值创建新TreeNode
+        int m = l + (r - l) / 2;
+        TreeNode root = new TreeNode(nums[m]);
+        root.left = buildTree(nums, l, m - 1);
+        root.right = buildTree(nums, m + 1, r);
+        return root;
     }
 }
