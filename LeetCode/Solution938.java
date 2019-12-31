@@ -24,22 +24,14 @@
 3. 左、右子树都是二叉搜索树。
  */
 public class Solution938 {
-    public static void main(String[] args) {
-        String str = "[10,5,15,3,7,null,18]";
-        int L = 7,R = 15;
-        TreeNode node = TreeNode.mkTree(str);
-        Solution938 s = new Solution938();
-        System.out.println(s.rangeSumBST(node,L,R));
+    public class TreeNode {
+        int val;
+        TreeNode left;
+        TreeNode right;
+        TreeNode(int x) {
+            val = x;
+        }
     }
-    /**
-     * Definition for a binary tree node.
-     * public class TreeNode {
-     *     int val;
-     *     TreeNode left;
-     *     TreeNode right;
-     *     TreeNode(int x) { val = x; }
-     * }
-     */
     public int rangeSumBST(TreeNode root, int L, int R) {
         if (root == null) return 0;
         if (root.val >= L && root.val <= R){//当前节点在两数之间，把自身值加到结果里，并往左右子节点递归
