@@ -28,6 +28,14 @@
 返回 false 。
 */
 public class Solution110 {
+    public class TreeNode {
+        int val;
+        TreeNode left;
+        TreeNode right;
+        TreeNode(int x) {
+            val = x;
+        }
+    }
     public boolean isBalanced(TreeNode root) {
         return height(root) >=0;
     }
